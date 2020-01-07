@@ -1,6 +1,6 @@
 """
-Author : Kartikeyan Gupta
-Date : 30-03-2019 
+Author : Shivam Singh
+Date : 7th Jan 2020
 
 ---This is a simple read-made IoT project
 ---I have used haarcascade_frontalface_default to detect faces in an image
